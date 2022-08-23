@@ -13,7 +13,7 @@ fill(0,0, 0);
 ellipse (250,270,100,150) ;
 // Head
 ellipse (250,150,150,150) ;
-// Ear
+// Ear left
 ellipse (170,80,75,75);
 // Ear right 
 ellipse(330,80,75,75);
@@ -34,12 +34,25 @@ ellipse (270,130, 20, 40) ;
 ellipse (230, 130, 20, 40);
 // Nose 
 ellipse (250, 160, 30, 20);
-fill(235, 225, 52);
+fill(225, 225, 0);
 stroke(0,0,0);
 ellipse (230,300,25,25);
 ellipse (270,300,25,25);
-// shoes
-fill(235, 225, 52);
+// yello shoes
+fill(225, 225, 0);
 ellipse (285,390, 60, 40) ;
 ellipse (215, 390, 60, 40);
-
+// shoe shine
+fill(242, 245, 247);
+ellipse (275,385, 25, 10) ;
+ellipse (205, 385, 25, 10);
+fill(225,225,225);
+// Ear shine
+ellipse (160,70,30,30);
+// Ear shine 
+ellipse(320,70,30,30);
+fill(0,0,0);
+// Ear shine
+ellipse (170,75,30,30);
+// Ear shine 
+ellipse(330,75,30,30);
