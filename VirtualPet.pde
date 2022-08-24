@@ -1,5 +1,5 @@
 size(500,500);
-background(225, 252, 252);
+background(154, 215, 237);
 fill(68, 135, 88);
 noStroke();
 triangle(0, 500, 100, 350, 200, 500);
